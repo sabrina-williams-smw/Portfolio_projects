@@ -1,9 +1,9 @@
-# Sabrina Miller – Biomedical Engineer Portfolio
+# Sabrina Williams – Biomedical Engineer Portfolio
 
 This repository contains my personal portfolio website showcasing my background, skills, and projects in **Biomedical Engineering, Data Analysis, and Human Factors Design**.  
 The portfolio highlights my technical proficiency, research experience, and selected key projects.
 
-👉 **Live Demo:** [View Portfolio](https://sabrinamillersm.github.io/Portfolio_projects/)
+👉 **Live Demo:** [View Portfolio](https://sabrina-williams-smw.github.io/Portfolio_projects/)
 
 ---
 
