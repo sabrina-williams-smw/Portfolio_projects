@@ -50,6 +50,6 @@ The portfolio highlights my technical proficiency, research experience, and sele
 Clone the repository and open `index.html` in your browser:
 
 ```bash
-git clone git@github.com:SabrinaMillerSM/Portfolio_projects.git
+git clone git@github.com:sabrina-williams-smw/Portfolio_projects.git
 cd Portfolio_projects
 open index.html   # On macOS
